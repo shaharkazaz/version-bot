@@ -1,0 +1,40 @@
+{
+  "projectName": "version bot",
+  "projectOwner": "Shahar Kazaz",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "shaharkazaz",
+      "name": "Shahar Kazaz",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/17194830?v=4",
+      "profile": "https://github.com/shaharkazaz",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "example",
+        "ideas",
+        "infra"
+      ]
+    },
+    {
+      "login": "danzrou",
+      "name": "Dan Roujinsky",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6433766?v=4",
+      "profile": "https://github.com/danzrou",
+      "contributions": [
+        "code",
+        "ideas",
+        "userTesting"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
